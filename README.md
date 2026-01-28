@@ -34,8 +34,8 @@ I’m passionate about space tech, robotics and smart systems. I love working on
 ## Skills
 
 **Languages:** C, C++, Python, Dart (Flutter)  
-**Embedded & IoT:** Arduino, ESP32, SIM7600E, GPS, Sensors  
-**VLSI Design:** C2S, RTL-to-GDS (training)  
+**Embedded & IoT:** Arduino
+**VLSI Design:** Cadence, Xilinx Vivado 
 **Tools:** MATLAB, Simulink, Multisim, QGIS, Git, GitHub
 
 ---
@@ -46,5 +46,5 @@ Embedded Systems • VLSI • IoT • Wireless Communication • App Development
 ---
 
 ## Contact
-**LinkedIn:** _add your LinkedIn link here_  
-**Email:** _add your email here_
+**LinkedIn:** https://www.linkedin.com/in/ujwala-velpula/
+
