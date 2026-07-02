@@ -2,7 +2,7 @@
 **Student • Engineer**
 
 ## 👧 About Me
-Hi, I’m Ujwala, a third-year Electronics and Communication Engineering student.
+Hi, I’m Ujwala, an Undergraduate Electronics and Communication Engineering student.
 I’m passionate about space tech, robotics and smart systems. I love working on real-world projects that combine innovation with impact.
 
 
@@ -33,7 +33,7 @@ I’m passionate about space tech, robotics and smart systems. I love working on
 
 ## Skills
 
-**Languages:** C, C++, Python, Dart (Flutter)  
+**Languages:** C, C++, Python,  
 **Embedded & IoT:** Arduino
 **VLSI Design:** Cadence, Xilinx Vivado 
 **Tools:** MATLAB, Simulink, Multisim, QGIS, Git, GitHub
