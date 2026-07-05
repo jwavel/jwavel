@@ -1,5 +1,5 @@
 # Hi, I'm Ujwala 👋
-**Student • Engineer**
+**Student • Engineer** 
 
 ## 👧 About Me
 Hi, I’m Ujwala, an Undergraduate Electronics and Communication Engineering student.
@@ -14,9 +14,6 @@ I’m passionate about space tech, robotics and smart systems. I love working on
 - GPS data collection using ESP32 + SIM7600E  
 - Route visualization using QGIS  
 - Flutter mobile interface
-
-### 🌡️ tinyAtmos: Smart Climate Monitor
-- Temperature & humidity readings using DHT11 + OLED
 
 ### 😴 Drowsiness Detection Eyewear
 - Blink-based alerting system for drowsiness detection
